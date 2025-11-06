@@ -8,7 +8,7 @@ for(int i=0;i<n;i++)//start index
 for(int j=i;j<n;j++)//end index
 {
 int sum=0;
-for(int p=i;p<=j;p++)
+for(int p=i;p<=j;p++)//sum of subarray
 {
     sum+=arr[p];
 
