@@ -16,7 +16,7 @@ for(int p=i;p<=j;p++)//sum of subarray
 
 if(sum==k)
 {
-maxlen=Math.max(maxlen, j-i+1);
+maxlen=Math.max(maxlen, j-i+1);//this provide largest value
 }
 }
 }
