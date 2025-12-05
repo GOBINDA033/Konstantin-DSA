@@ -8,7 +8,7 @@ for(int i=0;i<n;i++)//start index
 for(int j=i;j<n;j++)//end index
 {
 int sum=0;
-for(int p=i;p<=j;p++)//sum of subarray
+for(int p=i;p<=j;p++)
 {
     sum+=arr[p];
 
@@ -16,7 +16,7 @@ for(int p=i;p<=j;p++)//sum of subarray
 
 if(sum==k)
 {
-maxlen=Math.max(maxlen, j-i+1);//this provide largest value
+maxlen=Math.max(maxlen, j-i+1);
 }
 }
 }
