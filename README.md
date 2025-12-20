@@ -5,7 +5,7 @@ This repository contains my **daily solutions to LeetCode DSA problems** impleme
 I consistently solve problems to strengthen my:
 - Data Structures & Algorithms fundamentals
 - Problem-solving skills
-- Coding interview preparation
+  
 
 ## 📌 What you'll find here
 - ✅ Daily LeetCode problem solutions
@@ -21,11 +21,10 @@ I consistently solve problems to strengthen my:
 
 ## 🎯 Goal
 - Solve DSA problems **daily**
-- Build strong logic & consistency
-- Prepare for product-based company interviews
+- Build strong logic 
 
 ## 📅 Consistency
 > I solve **LeetCode DSA problems daily** and push my solutions regularly to GitHub.
 
--
+
 
