@@ -1,5 +1,8 @@
 
-// leetCode 121.Buy and sell stock 
+// leetCode : 121 Best Time to Buy and Sell Stock
+// Appraoch Greedy/one-pass
+//Time complexity O(n)
+//Space complexity O(n)
 public class SellBuy {
  public static int maxProfit(int [] prices)
  {
