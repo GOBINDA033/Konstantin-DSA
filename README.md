@@ -2,7 +2,7 @@
 
 This repository contains my **daily solutions to LeetCode DSA problems** implemented in **Java**.
 
-I consistently solve problems to strengthen my:
+I consistently solve problems to  strengthen my:
 - Data Structures & Algorithms fundamentals
 - Problem-solving skills
   
