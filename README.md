@@ -23,7 +23,7 @@ I consistently solve problems to strengthen my:
 - Solve DSA problems **daily**
 - Build strong logic 
 
-## 📅 Consistency
+## 📅 Consistency 
 > I solve **LeetCode DSA problems daily** and push my solutions regularly to GitHub.
 
 
